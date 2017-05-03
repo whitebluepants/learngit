@@ -7,3 +7,4 @@ test new merge way
 Git is a free software.
 Now try to fix bug.
 1111
+test clone dev.
